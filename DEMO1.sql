@@ -1,0 +1,2 @@
+SELECT top_student
+FROM prof_cheung
