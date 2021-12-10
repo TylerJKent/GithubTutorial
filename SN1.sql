@@ -1,3 +1,3 @@
-SELECT newfile1, newfile2
+SELECT newfile1, newfile23
 FROM TestDoc
 GROUP BY All 
