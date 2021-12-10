@@ -1,3 +1,3 @@
-TEST SQL Program
-
-Stephen 
+SELECT newfile
+FROM TestDoc
+GROUP BY All 
